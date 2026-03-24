@@ -89,4 +89,4 @@ java GameOfLife
 
 ## Author
 
-Built as a learning project to practice Java fundamentals.
+Kevin SCHABERL
