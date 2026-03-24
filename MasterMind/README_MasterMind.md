@@ -80,5 +80,5 @@ This project was built to practice core Java fundamentals:
 ---
 
 ## Author
-
+Kevin SCHABERL
 Built as a learning project to practice Java fundamentals.
